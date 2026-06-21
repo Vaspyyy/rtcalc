@@ -1,0 +1,19 @@
+.gitignore
+  s_43bbfb0b7c7f6d::t_1b5b129bffd970 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "2b9c72f15b2e40c72b0b0dd6f6a153f58ecdeee9",
+  "prompts": {},
+  "sessions": {
+    "s_43bbfb0b7c7f6d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_113931531ffejxu7MpIync0sG2",
+        "model": "unknown"
+      },
+      "human_author": "Vaspyyy <lolbautz2@gmail.com>"
+    }
+  }
+}
