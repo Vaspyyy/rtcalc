@@ -1,0 +1,47 @@
+src/definitions.rs
+  s_43bbfb0b7c7f6d::t_f19fc3b9639983 157
+  s_43bbfb0b7c7f6d::t_07f2b71e6355cd 1-71,73-80,82,84-156,158-184
+  s_43bbfb0b7c7f6d::t_7fc3d801a806c0 72
+  s_43bbfb0b7c7f6d::t_5157a260567634 81,83
+src/main.rs
+  s_43bbfb0b7c7f6d::t_c31a8f63e5478f 146
+  s_43bbfb0b7c7f6d::t_f24d72c6717eeb 139
+  s_43bbfb0b7c7f6d::t_806f2e5e655608 1-138,140-145,147-390
+README.md
+  s_43bbfb0b7c7f6d::t_87dc88086eeddd 9,11,13-15,30,39
+src/utilities.rs
+  s_43bbfb0b7c7f6d::t_15588972587fee 1-230
+Cargo.toml
+  s_43bbfb0b7c7f6d::t_11f739c8da2298 1-11,13-16
+  s_43bbfb0b7c7f6d::t_8fc304881244d8 12
+src/functions.rs
+  s_43bbfb0b7c7f6d::t_5a7a425f31ae3e 1-9,14-33,35-46,48-196,200-215,219-339,341-553,555-557,559-561,563-565,567-573,575-691
+  s_43bbfb0b7c7f6d::t_ad73e789ea6200 197-199
+  s_43bbfb0b7c7f6d::t_140ed1cf648047 340
+  s_43bbfb0b7c7f6d::t_8488f65e1db87f 554,562,566
+  s_43bbfb0b7c7f6d::t_6e044fccd9bc14 692-787,789-838,840-876
+  s_43bbfb0b7c7f6d::t_a358e878c1861e 788
+  s_43bbfb0b7c7f6d::t_ab46b05d21da96 216-218
+  s_43bbfb0b7c7f6d::t_2aa7d4c452f728 574
+  s_43bbfb0b7c7f6d::t_2e7445cce4e5c2 47
+  s_43bbfb0b7c7f6d::t_0e9116c0694f66 558
+  s_43bbfb0b7c7f6d::t_a3d14bdd846594 839
+  s_43bbfb0b7c7f6d::t_42700fd213a85e 10-13
+  s_43bbfb0b7c7f6d::t_19bbe6e9da8cba 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "561658da65b87b0af25a5807ce7ed07651b44c44",
+  "prompts": {},
+  "sessions": {
+    "s_43bbfb0b7c7f6d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_113931531ffejxu7MpIync0sG2",
+        "model": "unknown"
+      },
+      "human_author": "Vaspyyy <lolbautz2@gmail.com>"
+    }
+  }
+}
