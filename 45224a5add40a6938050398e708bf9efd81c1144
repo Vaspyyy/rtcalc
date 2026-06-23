@@ -1,0 +1,21 @@
+Makefile
+  s_79f43dd1c9ebec::t_51f014c891ebe1 5-6,8,23-24
+README.md
+  s_79f43dd1c9ebec::t_6296941220aca0 2-3,9-10,14,16,22,26-31,33-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "45224a5add40a6938050398e708bf9efd81c1144",
+  "prompts": {},
+  "sessions": {
+    "s_79f43dd1c9ebec": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1134ee487ffer2ickdkQBEIQtd",
+        "model": "unknown"
+      },
+      "human_author": "Vaspyyy <lolbautz2@gmail.com>"
+    }
+  }
+}
