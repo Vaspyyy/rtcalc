@@ -1,0 +1,49 @@
+docs/rtcalc.1
+  s_6a0580206c70fe::t_88f4944c4fdd95 79,81
+src/utilities.h
+  s_6a0580206c70fe::t_dbb9d069422e01 255
+  s_6a0580206c70fe::t_51398db9e9f864 243,246
+  s_6a0580206c70fe::t_b21a228c1dbbde 256
+src/definitions.h
+  s_6a0580206c70fe::t_1a09b3fbca6daa 188
+  s_6a0580206c70fe::t_621ea7a29d639b 152
+  s_6a0580206c70fe::t_665a4e52e1098e 157
+  s_6a0580206c70fe::t_fafcc4e47ffd61 119
+  s_6a0580206c70fe::t_96e41f13c3a872 162
+src/rtcalc.c
+  s_6a0580206c70fe::t_bdbc092df8c125 353
+  s_6a0580206c70fe::t_639e3bb81d0eb3 84-86
+src/functions.h
+  s_6a0580206c70fe::t_66c293554fd13e 356-357
+  s_6a0580206c70fe::t_1d38039aff047a 600
+  s_6a0580206c70fe::t_a22a916ce6fbb9 114
+  s_6a0580206c70fe::t_ab347e54156810 373,376
+  s_6a0580206c70fe::t_310b198f1f43e3 714
+  s_6a0580206c70fe::t_b7033980b60f4b 360
+  s_6a0580206c70fe::t_60fbff62980325 622
+  s_6a0580206c70fe::t_9355336fdc0205 87-91,97,99,104
+  s_6a0580206c70fe::t_e3c5ad2cc20a34 248
+  s_6a0580206c70fe::t_5e38dc6447f8ff 111
+  s_6a0580206c70fe::t_c4d98192a85f8b 247
+  s_6a0580206c70fe::t_e076fd6453dd4c 623-624
+docs/rtcalc.md
+  s_6a0580206c70fe::t_756652f0cf73b5 78
+  s_6a0580206c70fe::t_b73f77610d7977 80
+  s_6a0580206c70fe::t_0e9742be6d1b95 68-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "8a3a5e7c17143813bcaf63e246df38579fcc7260",
+  "prompts": {},
+  "sessions": {
+    "s_6a0580206c70fe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_10bddb8c1ffeK6uBiEcx61MvQ2",
+        "model": "unknown"
+      },
+      "human_author": "Vaspyyy <lolbautz2@gmail.com>"
+    }
+  }
+}
